@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	logallrefupdates = false
+[remote "origin"]
+	url = https://github.com/Gulivert/Tester-Asteroides.git
+	push = Head:refs/heads/master
